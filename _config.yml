@@ -21,8 +21,9 @@
 title: Tingzhen Yan's Homepage
 email: ytz22@mails.tsinghua.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a third year master student at Tsinghua University. I earned my B.E. in computer science and technology from Chongqing University. 
-  I have broad interests in data retrieval and storage, compiler and security.
+  I am a third year master student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>. 
+  I earned my B.E. in computer science and technology from <a href="https://english.cqu.edu.cn/">Chongqing University</a>. 
+  I have broad interests in computer architecture, operating systems, data retrieval and storage, compiler and security.
 show_downloads: true
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com

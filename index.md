@@ -8,7 +8,7 @@ The Last Mile of Attack Investigation: Audit Log Analysis towards Software Vulne
 
 Changhua Chen, **TingZhen Yan**, ChenXuan Shi, Hao Xi, ZhiRui Fan, Hai Wan, and Xibin Zhao
 
-In the IEEE Transactions on Information Forensics & Security (TIFS)
+(To appear) In the IEEE Transactions on Information Forensics & Security (TIFS)
 
 # Work
 
